@@ -219,4 +219,8 @@ This project helped me practice:
 
 <p align="center">
 
-<a href="htt
+<a href="https://github.com/omarawad005"> <img src="https://img.shields.io/badge/GitHub-omarawad005-181717?style=for-the-badge&logo=github"> </a>
+
+</p>
+
+<p align="center"> ⭐ If you found this project useful, feel free to star the repository! </p>
